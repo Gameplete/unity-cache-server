@@ -41,7 +41,7 @@ Mirror:
     queueProcessDelay: 2000
     connectionIdleTimeout: 10000
 Server:
-  port: 8081
+  port: 8126
   options:
     allowIpv6: false
 Global:
